@@ -1,0 +1,6 @@
+{
+  "name": "Aeon Studio | Liquid Glass Web Studio",
+  "description": "A dark, cinematic web design agency landing page featuring liquid glass morphism UI elements, custom atmospheric video backgrounds, and smooth blur/fade animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
